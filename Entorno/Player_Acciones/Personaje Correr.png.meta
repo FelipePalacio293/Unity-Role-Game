@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: f8de4b6ba78778a4aafc539b56266488
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1602837180728794827
+    second: Personaje Correr_0
+  - first:
+      213: -2049834643979483069
+    second: Personaje Correr_1
+  - first:
+      213: 8430003405126747329
+    second: Personaje Correr_2
+  - first:
+      213: 6676157576944120130
+    second: Personaje Correr_3
+  - first:
+      213: -5089987565479003733
+    second: Personaje Correr_4
+  - first:
+      213: 7267123448152628284
+    second: Personaje Correr_5
+  - first:
+      213: 7554179872663260576
+    second: Personaje Correr_6
+  - first:
+      213: -3611526507260828781
+    second: Personaje Correr_7
+  - first:
+      213: 4812585266901774383
+    second: Personaje Correr_8
+  - first:
+      213: -8133137801170048209
+    second: Personaje Correr_9
+  - first:
+      213: -5736900207267021660
+    second: Personaje Correr_10
+  - first:
+      213: -4711189555586808480
+    second: Personaje Correr_11
+  - first:
+      213: -7864656233818066537
+    second: Personaje Correr_12
+  - first:
+      213: 882695055526809699
+    second: Personaje Correr_13
+  - first:
+      213: 2142639692212281498
+    second: Personaje Correr_14
+  - first:
+      213: -7440745018276157780
+    second: Personaje Correr_15
+  - first:
+      213: -5372217481946868511
+    second: Personaje Correr_16
+  - first:
+      213: 4559916470437087446
+    second: Personaje Correr_17
+  - first:
+      213: 1948800183828276036
+    second: Personaje Correr_18
+  - first:
+      213: 5096278600725765697
+    second: Personaje Correr_19
+  - first:
+      213: -2415878587306018577
+    second: Personaje Correr_20
+  - first:
+      213: 1063559696659276267
+    second: Personaje Correr_21
+  - first:
+      213: -4991990260175816492
+    second: Personaje Correr_22
+  - first:
+      213: 1349105950133280897
+    second: Personaje Correr_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personaje Correr_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1324
+        width: 415
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bced0267ceb6e3610800000000000000
+      internalID: 1602837180728794827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_1
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1792
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348405570468d83e0800000000000000
+      internalID: -2049834643979483069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1321
+        width: 415
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4c9e1de636df470800000000000000
+      internalID: 8430003405126747329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_3
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1324
+        width: 415
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2417946c1f976ac50800000000000000
+      internalID: 6676157576944120130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_4
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1325
+        width: 418
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9f770f64bbc59b0800000000000000
+      internalID: -5089987565479003733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_5
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1324
+        width: 412
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9c02f5420ad460800000000000000
+      internalID: 7267123448152628284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_6
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1323
+        width: 412
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adcf770296d5d860800000000000000
+      internalID: 7554179872663260576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_7
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1792
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393afcdb6c741edc0800000000000000
+      internalID: -3611526507260828781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1743
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2075f45dccb9c240800000000000000
+      internalID: 4812585266901774383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1744
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b25f3d24a412f80800000000000000
+      internalID: -8133137801170048209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_10
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1742
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acfbf928af6260b0800000000000000
+      internalID: -5736900207267021660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_11
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1745
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065c7b56f0e7e9eb0800000000000000
+      internalID: -4711189555586808480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 804
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79176b6f2d02bd290800000000000000
+      internalID: -7864656233818066537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 335
+        width: 412
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3605bade976ff3c00800000000000000
+      internalID: 882695055526809699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_14
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 336
+        width: 413
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9027f7a27f2cbd10800000000000000
+      internalID: 2142639692212281498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_15
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 337
+        width: 417
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6646124d92db890800000000000000
+      internalID: -7440745018276157780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_16
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 336
+        width: 416
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4d964d9ac0275b0800000000000000
+      internalID: -5372217481946868511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_17
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 333
+        width: 416
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d80bd1ded3184f30800000000000000
+      internalID: 4559916470437087446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_18
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 336
+        width: 415
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443ec4721778b0b10800000000000000
+      internalID: 1948800183828276036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_19
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 804
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e1fa8d26e99b640800000000000000
+      internalID: 5096278600725765697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_20
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 757
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8f6278933197ed0800000000000000
+      internalID: -2415878587306018577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_21
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 754
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be16cccb8e582ce00800000000000000
+      internalID: 1063559696659276267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_22
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 756
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b20c9e43e8bab0800000000000000
+      internalID: -4991990260175816492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Correr_23
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 755
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1806f0ab6bcf8b210800000000000000
+      internalID: 1349105950133280897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

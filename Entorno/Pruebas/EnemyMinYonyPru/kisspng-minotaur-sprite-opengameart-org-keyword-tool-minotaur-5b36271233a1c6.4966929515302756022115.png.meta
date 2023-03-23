@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 1e742090ebabf2747b99089ce8c1fc4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -601629585095655636
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_0
+  - first:
+      213: 1142152519441015390
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_1
+  - first:
+      213: 8209120521042383256
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_2
+  - first:
+      213: -6685481382672346838
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_3
+  - first:
+      213: -5882166424123856043
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_4
+  - first:
+      213: -1190536383223227256
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_5
+  - first:
+      213: -5050240916242957542
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_6
+  - first:
+      213: 8473964852031785492
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_7
+  - first:
+      213: 3377465702381144275
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_8
+  - first:
+      213: -6639572483356161890
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_9
+  - first:
+      213: 4078253320934209394
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_10
+  - first:
+      213: -8636185671645986838
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_11
+  - first:
+      213: 4611277098257705952
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_12
+  - first:
+      213: 7859990319931855553
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_13
+  - first:
+      213: -2287146474496607177
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_14
+  - first:
+      213: 1739264363685948708
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_15
+  - first:
+      213: -3417526611719393331
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_16
+  - first:
+      213: -2660136047917485661
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_17
+  - first:
+      213: 919239446626009879
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_18
+  - first:
+      213: 4087604660368556600
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_19
+  - first:
+      213: -6209181938895457238
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_20
+  - first:
+      213: 3595207350614043235
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_21
+  - first:
+      213: 1741963516777031088
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_22
+  - first:
+      213: -7979991562917865507
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_23
+  - first:
+      213: 2573002026768517706
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_24
+  - first:
+      213: 6798743809024252848
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_25
+  - first:
+      213: 6682292125515505471
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_26
+  - first:
+      213: -6195173080714704664
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_27
+  - first:
+      213: 4568028345132870104
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_28
+  - first:
+      213: 5405164699147841902
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_29
+  - first:
+      213: -6443097585646343716
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_30
+  - first:
+      213: 223408706047483073
+    second: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 402
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ff106741596a7f0800000000000000
+      internalID: -601629585095655636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 402
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5269904aadb9df00800000000000000
+      internalID: 1142152519441015390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 400
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891d91fbe97ace170800000000000000
+      internalID: 8209120521042383256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 401
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d3598a166833a0800000000000000
+      internalID: -6685481382672346838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 402
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b2e546dc85e5ea0800000000000000
+      internalID: -5882166424123856043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 402
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c1dc9977d5a7fe0800000000000000
+      internalID: -1190536383223227256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_6
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 402
+        width: 52
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bf13dd4a0f9e9b0800000000000000
+      internalID: -5050240916242957542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 402
+        width: 52
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a008cc222999570800000000000000
+      internalID: 8473964852031785492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 273
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d84e77692b2fde20800000000000000
+      internalID: 3377465702381144275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 272
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98091d11008bd3a0800000000000000
+      internalID: -6639572483356161890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 273
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2773752b9cdd89830800000000000000
+      internalID: 4078253320934209394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 272
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeff83b53ea162880800000000000000
+      internalID: -8636185671645986838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 274
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb6b8ad61c8eff30800000000000000
+      internalID: 4611277098257705952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 274
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c21c8d4d8b441d60800000000000000
+      internalID: 7859990319931855553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_14
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 274
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cb756366c6240e0800000000000000
+      internalID: -2287146474496607177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_15
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 274
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2ff749bb132810800000000000000
+      internalID: 1739264363685948708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 145
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf650a47a18290d0800000000000000
+      internalID: -3417526611719393331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 144
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1baa1cb5c451bd0800000000000000
+      internalID: -2660136047917485661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 145
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7138ba7086bc1cc00800000000000000
+      internalID: 919239446626009879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 144
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832cf7318c61ab830800000000000000
+      internalID: 4087604660368556600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 146
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247d5a9ced84d9a0800000000000000
+      internalID: -6209181938895457238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_21
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 146
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a2933890eb4e130800000000000000
+      internalID: 3595207350614043235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 146
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b56f25d692bc2810800000000000000
+      internalID: 1741963516777031088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_23
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 146
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd79aad04ff514190800000000000000
+      internalID: -7979991562917865507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ac5e306b325b320800000000000000
+      internalID: 2573002026768517706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbd6c7197df95e50800000000000000
+      internalID: 6798743809024252848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fddbaa8454cbc50800000000000000
+      internalID: 6682292125515505471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_27
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 17
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e800f118e2560aa0800000000000000
+      internalID: -6195173080714704664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_28
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 18
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d96f83d395e46f30800000000000000
+      internalID: 4568028345132870104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_29
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 18
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e613035f7a0030b40800000000000000
+      internalID: 5405164699147841902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_30
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 18
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd96f5202e48596a0800000000000000
+      internalID: -6443097585646343716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-minotaur-sprite-opengameart-org-keyword-tool-minotaur-5b36271233a1c6.4966929515302756022115_31
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 18
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc90b3d805b91300800000000000000
+      internalID: 223408706047483073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
