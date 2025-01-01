@@ -13,6 +13,6 @@ Key Features:
 
 ⚔️ Combat System: Engage in strategic turn-based combat, reminiscent of classic Pokémon games, to defeat your foes and advance through the game.
 
-🎨 Custom Artwork: Immerse yourself in the game's environment, brought to life by our very own original artwork and character designs.
+🎨 Custom Artwork: Immerse yourself in the game's environment, brought to life by our very own original artwork and character designs inspired by retro games.
 
 💥 Attack Animations: Experience dynamic and visually appealing attack animations that enhance the excitement of combat encounters.
